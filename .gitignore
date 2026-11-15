@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Dataset files (keep large image datasets out of GitHub)
+cell_images/
+data/
+
+# Trained model files and training output
+*.h5
+*.keras
+*.weights.h5
+logs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
