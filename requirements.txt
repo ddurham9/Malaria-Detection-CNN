@@ -1,0 +1,9 @@
+# Third-party packages imported by Malaria_Detection.ipynb
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+Pillow
+scikit-learn
+tensorflow
